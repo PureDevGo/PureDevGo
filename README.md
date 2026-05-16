@@ -1,50 +1,75 @@
-# <img src="./assets/hero.svg" alt="PureDevGo hero banner" width="100%" />
+# <img src="./assets/hero.svg" alt="PureDevGo cyber profile banner" width="100%" />
 
 <div align="center">
 
-### `BUILD. BREAK. REBUILD.`
+## `PUREDEVGO // SYSTEM ONLINE`
 
-**Full-stack builder from China, shipping sharp products with clean code and a little dramatic flair.**
+**Shipping interfaces with voltage, backend with discipline, and ideas that refuse to stay small.**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0f172a&label=VIEWS)](https://github.com/YOUR_USERNAME)
-[![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=ea580c&labelColor=111827)](https://github.com/YOUR_USERNAME?tab=followers)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=06b6d4&labelColor=111827)](https://github.com/YOUR_USERNAME?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=PureDevGo&style=for-the-badge&color=0f172a&label=VISITORS)](https://github.com/PureDevGo)
+[![Followers](https://img.shields.io/github/followers/PureDevGo?style=for-the-badge&color=22d3ee&labelColor=0b1220)](https://github.com/PureDevGo?tab=followers)
+[![Stars](https://img.shields.io/github/stars/PureDevGo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f97316&labelColor=0b1220)](https://github.com/PureDevGo?tab=repositories)
+
+`full-stack` `ai-workflows` `toolmaker` `design-minded engineer`
 
 </div>
 
 ---
 
-## / about_me
+## `/identity`
 
 ```ts
-const pureDevGo = {
-  role: "Full-stack Developer",
-  focus: ["Web Apps", "Tooling", "Automation", "AI x Product"],
-  currentlyBuilding: "Something dangerously useful",
-  philosophy: "Make it fast. Make it elegant. Make it ship.",
+export const PureDevGo = {
+  class: "FullStackEngineer",
+  base: "China",
+  mode: "Build fast, polish hard, ship sharp",
+  domains: ["Frontend", "Backend", "Automation", "AI Product"],
+  trait: "Turns raw ideas into things people actually want to use",
 };
 ```
 
+```txt
+===========================================================
+MISSION
+Build products that look alive, feel fast, and scale.
+Cut noise. Keep taste. Make systems people trust.
+===========================================================
+```
+
+---
+
+## `/mission-control`
+
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="34%" valign="top">
 
-### `now_playing`
+### `current_signal`
 
-- Building products that feel fast and intentional
-- Turning messy ideas into clean systems
-- Exploring AI workflows, DX tooling, and modern frontend craft
-- Open to collaboration on ambitious side projects
+- Designing interfaces with stronger personality
+- Building developer tools and automation flows
+- Exploring AI-native product experiences
+- Pushing side projects from idea to launch
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
-### `find_me`
+### `looking_for`
 
-[![Blog](https://img.shields.io/badge/Blog-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://your-site.dev)
-[![X](https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
-[![Bilibili](https://img.shields.io/badge/Bilibili-06b6d4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/YOUR_ID)
-[![Email](https://img.shields.io/badge/Email-ea580c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+- Smart product collaborations
+- Interesting open source work
+- Brutally useful tool ideas
+- Teams that care about craft
+
+    </td>
+    <td width="33%" valign="top">
+
+### `uplinks`
+
+[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PureDevGo)
+[![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/PureDevGo)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/YOUR_ID)
+[![Email](https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
     </td>
   </tr>
@@ -52,58 +77,87 @@ const pureDevGo = {
 
 ---
 
-## / tech_stack
+## `/loadout`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,python,tailwind,postgres,docker,git,vscode&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,python,tailwind,postgres,docker,redis,git&theme=dark" />
+</div>
+
+```yaml
+frontend:
+  - React
+  - Next.js
+  - TypeScript
+  - Tailwind
+
+backend:
+  - Node.js
+  - Go
+  - Python
+  - PostgreSQL
+
+build_style:
+  - crisp UX
+  - strong DX
+  - automation first
+  - fast iteration
+```
 
 ---
 
-## / featured_projects
+## `/featured-builds`
 
-| Project | What it does | Stack |
+| Codename | Signal | Core Stack |
 | --- | --- | --- |
-| `Project Neon` | A polished product / SaaS / dashboard you are proud of | `Next.js` `TypeScript` `Tailwind` |
-| `Ghost CLI` | A terminal tool, automation script, or developer workflow booster | `Go` `Node.js` |
-| `Signal Lab` | An AI experiment, side project, or data playground | `Python` `OpenAI` `Postgres` |
-
-> Replace these with your real repos and add links like `[Project Neon](https://github.com/YOUR_USERNAME/project-neon)`.
-
----
-
-## / github_signal
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=f8fafc&text_color=cbd5e1&icon_color=22d3ee&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=f8fafc&text_color=cbd5e1" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0b1220&color=f8fafc&line=22d3ee&point=f97316&area=true&hide_border=true" />
-</div>
-
----
-
-## / manifesto
+| `NEON FORGE` | A flagship product, dashboard, or SaaS with a clean UX edge | `Next.js` `TypeScript` `Postgres` |
+| `GHOST OPS` | A CLI, automation engine, or workflow tool that saves real time | `Go` `Node.js` |
+| `SIGNAL LAB` | An AI experiment, internal platform, or idea incubator | `Python` `LLM` `Data` |
 
 ```txt
-I like interfaces with tension,
-systems with rhythm,
-and codebases that still make sense at 2AM.
+Rule: keep only the 3 projects that make people click.
+If a repo is not strong, hide it. Curate like a gallery.
+```
+
+---
+
+## `/telemetry`
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PureDevGo&show_icons=true&theme=transparent&hide_border=true&title_color=f8fafc&text_color=cbd5e1&icon_color=22d3ee&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureDevGo&layout=compact&theme=transparent&hide_border=true&title_color=f8fafc&text_color=cbd5e1" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PureDevGo&theme=dark&hide_border=true&background=0B1220&ring=22D3EE&fire=F97316&currStreakLabel=E2E8F0&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=CBD5E1" />
+</div>
+
+<div align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=PureDevGo&bg_color=0b1220&color=f8fafc&line=22d3ee&point=f97316&area=true&hide_border=true" />
+</div>
+
+---
+
+## `/manifesto`
+
+```txt
+I like codebases that still make sense at 2AM.
+I like interfaces with pulse, contrast, and intent.
+I like products that feel inevitable once they exist.
 ```
 
 <div align="center">
 
-`low-noise`   `high-agency`   `taste-driven`   `ship-fast`
+`taste-driven`   `high-agency`   `systems-first`   `ship-it energy`
 
 </div>
 
 ---
 
-## / setup_notes
+## `/boot-sequence`
 
-- This repo should be named exactly `YOUR_USERNAME` to become your GitHub profile homepage.
-- Replace every `YOUR_USERNAME`, link, and email with your actual info.
-- Pick 3 strongest projects only. Fewer, stronger, cleaner.
-- If you want, I can next restyle this into one of three directions: `cyber geek`, `premium minimal`, or `portfolio storytelling`.
+```bash
+git clone https://github.com/PureDevGo/PureDevGo.git
+cd PureDevGo
+build something impossible-looking
+ship it anyway
+```

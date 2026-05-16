@@ -1,70 +1,105 @@
-<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1600" height="620" viewBox="0 0 1600 620" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="120" y1="60" x2="1450" y2="460" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="158" y1="42" x2="1440" y2="590" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020617"/>
-      <stop offset="0.52" stop-color="#0F172A"/>
+      <stop offset="0.45" stop-color="#07111F"/>
       <stop offset="1" stop-color="#111827"/>
     </linearGradient>
-    <linearGradient id="lineA" x1="262" y1="116" x2="1278" y2="402" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#22D3EE"/>
-      <stop offset="1" stop-color="#F97316"/>
+    <linearGradient id="cyanLine" x1="200" y1="140" x2="1360" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#22D3EE"/>
+      <stop offset="0.82" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="lineB" x1="1094" y1="64" x2="481" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#67E8F9" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#FDBA74" stop-opacity="0.12"/>
+    <linearGradient id="orangeLine" x1="220" y1="450" x2="1360" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316"/>
+      <stop offset="1" stop-color="#FB923C" stop-opacity="0.12"/>
     </linearGradient>
-    <filter id="blurA" x="0" y="0" width="1600" height="520" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <linearGradient id="panelStroke" x1="320" y1="182" x2="1340" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0.35"/>
+    </linearGradient>
+    <filter id="blurBig" x="0" y="0" width="1600" height="620" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-      <feGaussianBlur stdDeviation="32" result="effect1_foregroundBlur_1_8"/>
+      <feGaussianBlur stdDeviation="72" result="effect1_foregroundBlur_1_1"/>
     </filter>
-    <filter id="blurB" x="0" y="0" width="1600" height="520" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <filter id="blurMid" x="0" y="0" width="1600" height="620" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-      <feGaussianBlur stdDeviation="80" result="effect1_foregroundBlur_1_8"/>
+      <feGaussianBlur stdDeviation="22" result="effect1_foregroundBlur_1_1"/>
     </filter>
   </defs>
 
-  <rect width="1600" height="520" rx="32" fill="url(#bg)"/>
+  <rect width="1600" height="620" rx="34" fill="url(#bg)"/>
 
   <g opacity="0.12">
-    <path d="M80 86H1520" stroke="white" stroke-width="1"/>
-    <path d="M80 164H1520" stroke="white" stroke-width="1"/>
-    <path d="M80 242H1520" stroke="white" stroke-width="1"/>
-    <path d="M80 320H1520" stroke="white" stroke-width="1"/>
-    <path d="M80 398H1520" stroke="white" stroke-width="1"/>
-    <path d="M164 40V478" stroke="white" stroke-width="1"/>
-    <path d="M412 40V478" stroke="white" stroke-width="1"/>
-    <path d="M660 40V478" stroke="white" stroke-width="1"/>
-    <path d="M908 40V478" stroke="white" stroke-width="1"/>
-    <path d="M1156 40V478" stroke="white" stroke-width="1"/>
-    <path d="M1404 40V478" stroke="white" stroke-width="1"/>
+    <path d="M68 82H1532" stroke="white"/>
+    <path d="M68 156H1532" stroke="white"/>
+    <path d="M68 230H1532" stroke="white"/>
+    <path d="M68 304H1532" stroke="white"/>
+    <path d="M68 378H1532" stroke="white"/>
+    <path d="M68 452H1532" stroke="white"/>
+    <path d="M68 526H1532" stroke="white"/>
+    <path d="M152 36V584" stroke="white"/>
+    <path d="M396 36V584" stroke="white"/>
+    <path d="M640 36V584" stroke="white"/>
+    <path d="M884 36V584" stroke="white"/>
+    <path d="M1128 36V584" stroke="white"/>
+    <path d="M1372 36V584" stroke="white"/>
   </g>
 
-  <g filter="url(#blurB)" opacity="0.7">
-    <circle cx="1242" cy="108" r="98" fill="#22D3EE"/>
-    <circle cx="336" cy="438" r="104" fill="#F97316"/>
+  <g opacity="0.24">
+    <path d="M124 134H1476" stroke="url(#cyanLine)" stroke-width="2"/>
+    <path d="M180 454L556 256L838 330L1096 214L1428 268" stroke="url(#orangeLine)" stroke-width="4" stroke-linecap="round"/>
+    <path d="M180 476L540 296L864 392L1132 272L1446 410" stroke="#22D3EE" stroke-opacity="0.48" stroke-width="2" stroke-dasharray="10 12"/>
   </g>
 
-  <path d="M175 390L522 132L786 299L1101 111L1413 248" stroke="url(#lineA)" stroke-width="8" stroke-linecap="round"/>
-  <path d="M192 416L458 225L761 364L1042 205L1352 339" stroke="url(#lineB)" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 12"/>
-
-  <g filter="url(#blurA)">
-    <circle cx="522" cy="132" r="12" fill="#67E8F9"/>
-    <circle cx="786" cy="299" r="12" fill="#F8FAFC"/>
-    <circle cx="1101" cy="111" r="12" fill="#67E8F9"/>
-    <circle cx="1413" cy="248" r="12" fill="#FB923C"/>
+  <g filter="url(#blurBig)" opacity="0.75">
+    <circle cx="1274" cy="118" r="92" fill="#22D3EE"/>
+    <circle cx="342" cy="492" r="106" fill="#F97316"/>
+    <circle cx="858" cy="286" r="74" fill="#0EA5E9"/>
   </g>
 
-  <g opacity="0.95">
-    <text x="126" y="168" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="30" letter-spacing="6">PUREDEVGO</text>
-    <text x="120" y="248" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="700">BUILD WHAT</text>
-    <text x="120" y="338" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="700">FEELS ALIVE</text>
-    <text x="126" y="392" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="26">frontend + backend + automation + AI workflows</text>
+  <g>
+    <rect x="96" y="56" width="1408" height="508" rx="28" fill="#08111E" fill-opacity="0.42" stroke="#1E293B"/>
+    <rect x="120" y="84" width="1360" height="454" rx="24" fill="#07101C" fill-opacity="0.74" stroke="url(#panelStroke)"/>
   </g>
 
-  <g opacity="0.78">
-    <rect x="1182" y="350" width="250" height="72" rx="14" fill="#0F172A" stroke="#334155"/>
-    <text x="1210" y="393" fill="#E2E8F0" font-family="Consolas, 'Courier New', monospace" font-size="24">status: shipping</text>
+  <g opacity="0.88">
+    <rect x="150" y="112" width="202" height="42" rx="21" fill="#08111E" stroke="#164E63"/>
+    <circle cx="176" cy="133" r="7" fill="#22D3EE"/>
+    <text x="194" y="140" fill="#CFFAFE" font-family="Consolas, 'Courier New', monospace" font-size="18">PROFILE SIGNAL / ACTIVE</text>
+
+    <rect x="1228" y="112" width="210" height="42" rx="21" fill="#08111E" stroke="#7C2D12"/>
+    <circle cx="1256" cy="133" r="7" fill="#F97316"/>
+    <text x="1274" y="140" fill="#FFEDD5" font-family="Consolas, 'Courier New', monospace" font-size="18">STATUS / SHIPPING</text>
+  </g>
+
+  <g opacity="0.98">
+    <text x="154" y="220" fill="#67E8F9" font-family="Consolas, 'Courier New', monospace" font-size="26" letter-spacing="5">PUREDEVGO</text>
+    <text x="150" y="314" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="106" font-weight="700">MAKE IT</text>
+    <text x="150" y="412" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="106" font-weight="700">LOOK ALIVE</text>
+    <text x="154" y="470" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="28">frontend / backend / automation / ai-native workflows</text>
+  </g>
+
+  <g filter="url(#blurMid)">
+    <circle cx="900" cy="346" r="9" fill="#67E8F9"/>
+    <circle cx="1100" cy="214" r="9" fill="#67E8F9"/>
+    <circle cx="1428" cy="268" r="9" fill="#FB923C"/>
+  </g>
+
+  <g opacity="0.94">
+    <rect x="980" y="210" width="386" height="214" rx="20" fill="#09121F" stroke="#1F3B4D"/>
+    <text x="1012" y="252" fill="#67E8F9" font-family="Consolas, 'Courier New', monospace" font-size="22">/ telemetry</text>
+    <text x="1012" y="296" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24">role............. full-stack engineer</text>
+    <text x="1012" y="332" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24">focus............ product + systems</text>
+    <text x="1012" y="368" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24">style............ clean, fast, vivid</text>
+    <text x="1012" y="404" fill="#F97316" font-family="Segoe UI, Arial, sans-serif" font-size="24">power............ high-agency shipping</text>
+  </g>
+
+  <g opacity="0.68">
+    <text x="150" y="528" fill="#475569" font-family="Consolas, 'Courier New', monospace" font-size="16">01</text>
+    <text x="1386" y="528" fill="#475569" font-family="Consolas, 'Courier New', monospace" font-size="16">PUREDEVGO.EXE</text>
   </g>
 </svg>

@@ -1,105 +1,78 @@
-<svg width="1600" height="620" viewBox="0 0 1600 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="158" y1="42" x2="1440" y2="590" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#020617"/>
-      <stop offset="0.45" stop-color="#07111F"/>
+    <linearGradient id="bg" x1="144" y1="44" x2="1458" y2="528" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#040816"/>
+      <stop offset="0.5" stop-color="#0A1324"/>
       <stop offset="1" stop-color="#111827"/>
     </linearGradient>
-    <linearGradient id="cyanLine" x1="200" y1="140" x2="1360" y2="140" gradientUnits="userSpaceOnUse">
+    <linearGradient id="strokeA" x1="124" y1="124" x2="1476" y2="124" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22D3EE" stop-opacity="0"/>
-      <stop offset="0.18" stop-color="#22D3EE"/>
-      <stop offset="0.82" stop-color="#67E8F9"/>
+      <stop offset="0.2" stop-color="#22D3EE"/>
+      <stop offset="0.8" stop-color="#67E8F9"/>
       <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="orangeLine" x1="220" y1="450" x2="1360" y2="270" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="300" y1="420" x2="1260" y2="180" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F97316"/>
-      <stop offset="1" stop-color="#FB923C" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#22D3EE"/>
     </linearGradient>
-    <linearGradient id="panelStroke" x1="320" y1="182" x2="1340" y2="440" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#22D3EE" stop-opacity="0.8"/>
-      <stop offset="1" stop-color="#F97316" stop-opacity="0.35"/>
-    </linearGradient>
-    <filter id="blurBig" x="0" y="0" width="1600" height="620" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <filter id="blurA" x="0" y="0" width="1600" height="560" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-      <feGaussianBlur stdDeviation="72" result="effect1_foregroundBlur_1_1"/>
-    </filter>
-    <filter id="blurMid" x="0" y="0" width="1600" height="620" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-      <feGaussianBlur stdDeviation="22" result="effect1_foregroundBlur_1_1"/>
+      <feGaussianBlur stdDeviation="70" result="effect1_foregroundBlur_1_1"/>
     </filter>
   </defs>
 
-  <rect width="1600" height="620" rx="34" fill="url(#bg)"/>
+  <rect width="1600" height="560" rx="32" fill="url(#bg)"/>
 
-  <g opacity="0.12">
-    <path d="M68 82H1532" stroke="white"/>
-    <path d="M68 156H1532" stroke="white"/>
-    <path d="M68 230H1532" stroke="white"/>
-    <path d="M68 304H1532" stroke="white"/>
-    <path d="M68 378H1532" stroke="white"/>
-    <path d="M68 452H1532" stroke="white"/>
-    <path d="M68 526H1532" stroke="white"/>
-    <path d="M152 36V584" stroke="white"/>
-    <path d="M396 36V584" stroke="white"/>
-    <path d="M640 36V584" stroke="white"/>
-    <path d="M884 36V584" stroke="white"/>
-    <path d="M1128 36V584" stroke="white"/>
-    <path d="M1372 36V584" stroke="white"/>
+  <g opacity="0.1">
+    <path d="M72 86H1528" stroke="white"/>
+    <path d="M72 160H1528" stroke="white"/>
+    <path d="M72 234H1528" stroke="white"/>
+    <path d="M72 308H1528" stroke="white"/>
+    <path d="M72 382H1528" stroke="white"/>
+    <path d="M72 456H1528" stroke="white"/>
+    <path d="M152 40V520" stroke="white"/>
+    <path d="M396 40V520" stroke="white"/>
+    <path d="M640 40V520" stroke="white"/>
+    <path d="M884 40V520" stroke="white"/>
+    <path d="M1128 40V520" stroke="white"/>
+    <path d="M1372 40V520" stroke="white"/>
   </g>
 
-  <g opacity="0.24">
-    <path d="M124 134H1476" stroke="url(#cyanLine)" stroke-width="2"/>
-    <path d="M180 454L556 256L838 330L1096 214L1428 268" stroke="url(#orangeLine)" stroke-width="4" stroke-linecap="round"/>
-    <path d="M180 476L540 296L864 392L1132 272L1446 410" stroke="#22D3EE" stroke-opacity="0.48" stroke-width="2" stroke-dasharray="10 12"/>
+  <g filter="url(#blurA)" opacity="0.72">
+    <circle cx="1280" cy="104" r="92" fill="#22D3EE"/>
+    <circle cx="334" cy="452" r="110" fill="#F97316"/>
   </g>
 
-  <g filter="url(#blurBig)" opacity="0.75">
-    <circle cx="1274" cy="118" r="92" fill="#22D3EE"/>
-    <circle cx="342" cy="492" r="106" fill="#F97316"/>
-    <circle cx="858" cy="286" r="74" fill="#0EA5E9"/>
-  </g>
+  <rect x="96" y="60" width="1408" height="440" rx="28" fill="#08111E" fill-opacity="0.58" stroke="#1E293B"/>
+  <path d="M122 124H1478" stroke="url(#strokeA)" stroke-width="2"/>
+  <path d="M188 422L506 284L774 336L1046 212L1412 252" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M188 446L506 332L784 398L1068 288L1412 392" stroke="#67E8F9" stroke-opacity="0.45" stroke-width="2" stroke-dasharray="10 12"/>
 
-  <g>
-    <rect x="96" y="56" width="1408" height="508" rx="28" fill="#08111E" fill-opacity="0.42" stroke="#1E293B"/>
-    <rect x="120" y="84" width="1360" height="454" rx="24" fill="#07101C" fill-opacity="0.74" stroke="url(#panelStroke)"/>
-  </g>
-
-  <g opacity="0.88">
-    <rect x="150" y="112" width="238" height="42" rx="21" fill="#08111E" stroke="#164E63"/>
-    <circle cx="176" cy="133" r="7" fill="#22D3EE"/>
-    <text x="194" y="140" fill="#CFFAFE" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="18">个人信号 / 已激活</text>
-
-    <rect x="1188" y="112" width="250" height="42" rx="21" fill="#08111E" stroke="#7C2D12"/>
-    <circle cx="1216" cy="133" r="7" fill="#F97316"/>
-    <text x="1234" y="140" fill="#FFEDD5" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="18">状态 / 持续构建中</text>
+  <g opacity="0.9">
+    <rect x="144" y="102" width="222" height="40" rx="20" fill="#09121F" stroke="#164E63"/>
+    <circle cx="170" cy="122" r="6" fill="#22D3EE"/>
+    <text x="188" y="128" fill="#CFFAFE" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="17">PUREDEVGO / ONLINE</text>
   </g>
 
   <g opacity="0.98">
-    <text x="154" y="204" fill="#67E8F9" font-family="Consolas, 'Courier New', monospace" font-size="24" letter-spacing="4">PUREDEVGO</text>
-    <text x="150" y="306" fill="#F8FAFC" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="96" font-weight="700">把灵感做成产品</text>
-    <text x="150" y="404" fill="#F8FAFC" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="96" font-weight="700">把代码做出锋芒</text>
-    <text x="154" y="468" fill="#94A3B8" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="28">前端 / 后端 / 自动化 / AI 工作流</text>
+    <text x="144" y="218" fill="#67E8F9" font-family="Consolas, 'Courier New', monospace" font-size="24" letter-spacing="4">FULL-STACK / PRODUCT / SYSTEMS</text>
+    <text x="144" y="306" fill="#F8FAFC" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="74" font-weight="700">把复杂问题做简单</text>
+    <text x="144" y="390" fill="#F8FAFC" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="74" font-weight="700">把想法真正做成产品</text>
+    <text x="148" y="438" fill="#94A3B8" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="25">前端 / 后端 / 自动化 / AI 工作流 / 产品工程</text>
   </g>
 
-  <g filter="url(#blurMid)">
-    <circle cx="900" cy="346" r="9" fill="#67E8F9"/>
-    <circle cx="1100" cy="214" r="9" fill="#67E8F9"/>
-    <circle cx="1428" cy="268" r="9" fill="#FB923C"/>
+  <g opacity="0.95">
+    <rect x="1030" y="182" width="340" height="176" rx="18" fill="#09121F" stroke="#22364B"/>
+    <text x="1058" y="224" fill="#67E8F9" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="21">当前信号</text>
+    <text x="1058" y="268" fill="#E2E8F0" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="22">身份 ........ 全栈开发者</text>
+    <text x="1058" y="302" fill="#E2E8F0" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="22">方向 ........ 产品 + 系统</text>
+    <text x="1058" y="336" fill="#E2E8F0" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="22">特征 ........ 追求完成度</text>
+    <text x="1058" y="370" fill="#F97316" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="22">状态 ........ 持续构建中</text>
   </g>
 
-  <g opacity="0.94">
-    <rect x="980" y="210" width="386" height="214" rx="20" fill="#09121F" stroke="#1F3B4D"/>
-    <text x="1012" y="252" fill="#67E8F9" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="22">/ 运行参数</text>
-    <text x="1012" y="296" fill="#E2E8F0" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="24">身份............. 全栈开发者</text>
-    <text x="1012" y="332" fill="#E2E8F0" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="24">方向............. 产品 + 系统</text>
-    <text x="1012" y="368" fill="#E2E8F0" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="24">风格............. 干净、快速、有张力</text>
-    <text x="1012" y="404" fill="#F97316" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="24">状态............. 高执行力持续输出</text>
-  </g>
-
-  <g opacity="0.68">
-    <text x="150" y="528" fill="#475569" font-family="Consolas, 'Courier New', monospace" font-size="16">01</text>
-    <text x="1332" y="528" fill="#475569" font-family="Consolas, 'Courier New', monospace" font-size="16">PUREDEVGO.CN.MODE</text>
+  <g opacity="0.66">
+    <text x="144" y="472" fill="#475569" font-family="Consolas, 'Courier New', monospace" font-size="15">PROFILE README / 2026</text>
+    <text x="1314" y="472" fill="#475569" font-family="Consolas, 'Courier New', monospace" font-size="15">PUREDEVGO</text>
   </g>
 </svg>

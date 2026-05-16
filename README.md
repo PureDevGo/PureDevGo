@@ -1,75 +1,75 @@
-# <img src="./assets/hero.svg" alt="PureDevGo cyber profile banner" width="100%" />
+# <img src="./assets/hero.svg" alt="PureDevGo 中文赛博主页横幅" width="100%" />
 
 <div align="center">
 
-## `PUREDEVGO // SYSTEM ONLINE`
+## `PUREDEVGO // 已上线`
 
-**Shipping interfaces with voltage, backend with discipline, and ideas that refuse to stay small.**
+**把想法打磨成产品，把复杂系统做得顺手，把代码写出一点锋芒。**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=PureDevGo&style=for-the-badge&color=0f172a&label=VISITORS)](https://github.com/PureDevGo)
-[![Followers](https://img.shields.io/github/followers/PureDevGo?style=for-the-badge&color=22d3ee&labelColor=0b1220)](https://github.com/PureDevGo?tab=followers)
-[![Stars](https://img.shields.io/github/stars/PureDevGo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f97316&labelColor=0b1220)](https://github.com/PureDevGo?tab=repositories)
+[![访问量](https://komarev.com/ghpvc/?username=PureDevGo&style=for-the-badge&color=0f172a&label=%E8%AE%BF%E9%97%AE)](https://github.com/PureDevGo)
+[![关注者](https://img.shields.io/github/followers/PureDevGo?style=for-the-badge&color=22d3ee&labelColor=0b1220&label=%E5%85%B3%E6%B3%A8)](https://github.com/PureDevGo?tab=followers)
+[![星标](https://img.shields.io/github/stars/PureDevGo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f97316&labelColor=0b1220&label=%E6%98%9F%E6%A0%87)](https://github.com/PureDevGo?tab=repositories)
 
-`full-stack` `ai-workflows` `toolmaker` `design-minded engineer`
+`全栈开发` `AI 工作流` `工具构建者` `有审美的工程师`
 
 </div>
 
 ---
 
-## `/identity`
+## `/身份标识`
 
 ```ts
 export const PureDevGo = {
-  class: "FullStackEngineer",
-  base: "China",
-  mode: "Build fast, polish hard, ship sharp",
-  domains: ["Frontend", "Backend", "Automation", "AI Product"],
-  trait: "Turns raw ideas into things people actually want to use",
+  身份: "全栈开发者",
+  坐标: "中国",
+  模式: "快速构建，持续打磨，稳定交付",
+  领域: ["前端体验", "后端系统", "自动化", "AI 产品化"],
+  特征: "把零散的想法做成真正能用、好用、耐用的东西",
 };
 ```
 
 ```txt
 ===========================================================
-MISSION
-Build products that look alive, feel fast, and scale.
-Cut noise. Keep taste. Make systems people trust.
+任务目标
+做有生命力的产品，做有节奏感的界面，做值得长期维护的系统。
+少一点噪音，多一点完成度。
 ===========================================================
 ```
 
 ---
 
-## `/mission-control`
+## `/控制台`
 
 <table>
   <tr>
     <td width="34%" valign="top">
 
-### `current_signal`
+### `当前状态`
 
-- Designing interfaces with stronger personality
-- Building developer tools and automation flows
-- Exploring AI-native product experiences
-- Pushing side projects from idea to launch
-
-    </td>
-    <td width="33%" valign="top">
-
-### `looking_for`
-
-- Smart product collaborations
-- Interesting open source work
-- Brutally useful tool ideas
-- Teams that care about craft
+- 正在打造更有个性的界面与交互
+- 持续折腾开发工具和自动化流程
+- 探索 AI 原生产品体验
+- 把副项目从灵感推到上线
 
     </td>
     <td width="33%" valign="top">
 
-### `uplinks`
+### `我在寻找`
+
+- 有野心的合作项目
+- 有意思的开源共建
+- 真正解决问题的工具想法
+- 在乎细节和质感的团队
+
+    </td>
+    <td width="33%" valign="top">
+
+### `连接入口`
 
 [![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PureDevGo)
 [![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/PureDevGo)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/YOUR_ID)
-[![Email](https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![邮箱](https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
     </td>
   </tr>
@@ -77,50 +77,50 @@ Cut noise. Keep taste. Make systems people trust.
 
 ---
 
-## `/loadout`
+## `/技能装载`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,python,tailwind,postgres,docker,redis,git&theme=dark" />
 </div>
 
 ```yaml
-frontend:
+前端:
   - React
   - Next.js
   - TypeScript
-  - Tailwind
+  - Tailwind CSS
 
-backend:
+后端:
   - Node.js
   - Go
   - Python
   - PostgreSQL
 
-build_style:
-  - crisp UX
-  - strong DX
-  - automation first
-  - fast iteration
+风格:
+  - 界面干净但不平庸
+  - 工程扎实但不笨重
+  - 自动化优先
+  - 追求速度与完成度
 ```
 
 ---
 
-## `/featured-builds`
+## `/代表项目`
 
-| Codename | Signal | Core Stack |
+| 代号 | 简述 | 技术栈 |
 | --- | --- | --- |
-| `NEON FORGE` | A flagship product, dashboard, or SaaS with a clean UX edge | `Next.js` `TypeScript` `Postgres` |
-| `GHOST OPS` | A CLI, automation engine, or workflow tool that saves real time | `Go` `Node.js` |
-| `SIGNAL LAB` | An AI experiment, internal platform, or idea incubator | `Python` `LLM` `Data` |
+| `霓虹锻炉` | 你最能代表自己的主力产品、SaaS 或后台系统 | `Next.js` `TypeScript` `Postgres` |
+| `幽灵协议` | 一个能真正省时间的 CLI、自动化工具或开发流程增强器 | `Go` `Node.js` |
+| `信号实验室` | AI、数据、工作流或者产品实验项目 | `Python` `LLM` `Data` |
 
 ```txt
-Rule: keep only the 3 projects that make people click.
-If a repo is not strong, hide it. Curate like a gallery.
+只保留最强的三个项目。
+不是作品越多越厉害，而是让人一眼记住才厉害。
 ```
 
 ---
 
-## `/telemetry`
+## `/开发者雷达`
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PureDevGo&show_icons=true&theme=transparent&hide_border=true&title_color=f8fafc&text_color=cbd5e1&icon_color=22d3ee&rank_icon=github" />
@@ -137,27 +137,27 @@ If a repo is not strong, hide it. Curate like a gallery.
 
 ---
 
-## `/manifesto`
+## `/宣言`
 
 ```txt
-I like codebases that still make sense at 2AM.
-I like interfaces with pulse, contrast, and intent.
-I like products that feel inevitable once they exist.
+我喜欢凌晨两点还读得懂的代码库。
+我喜欢有张力、有呼吸感、有完成度的界面。
+我喜欢那些一旦做出来，就显得本该存在的产品。
 ```
 
 <div align="center">
 
-`taste-driven`   `high-agency`   `systems-first`   `ship-it energy`
+`有判断力`   `高执行力`   `系统优先`   `把东西做成`
 
 </div>
 
 ---
 
-## `/boot-sequence`
+## `/启动命令`
 
 ```bash
 git clone https://github.com/PureDevGo/PureDevGo.git
 cd PureDevGo
-build something impossible-looking
-ship it anyway
+先把灵感变成原型
+再把原型打磨成作品
 ```

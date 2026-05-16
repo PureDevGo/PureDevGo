@@ -67,20 +67,20 @@
   </g>
 
   <g opacity="0.88">
-    <rect x="150" y="112" width="202" height="42" rx="21" fill="#08111E" stroke="#164E63"/>
+    <rect x="150" y="112" width="238" height="42" rx="21" fill="#08111E" stroke="#164E63"/>
     <circle cx="176" cy="133" r="7" fill="#22D3EE"/>
-    <text x="194" y="140" fill="#CFFAFE" font-family="Consolas, 'Courier New', monospace" font-size="18">PROFILE SIGNAL / ACTIVE</text>
+    <text x="194" y="140" fill="#CFFAFE" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="18">个人信号 / 已激活</text>
 
-    <rect x="1228" y="112" width="210" height="42" rx="21" fill="#08111E" stroke="#7C2D12"/>
-    <circle cx="1256" cy="133" r="7" fill="#F97316"/>
-    <text x="1274" y="140" fill="#FFEDD5" font-family="Consolas, 'Courier New', monospace" font-size="18">STATUS / SHIPPING</text>
+    <rect x="1188" y="112" width="250" height="42" rx="21" fill="#08111E" stroke="#7C2D12"/>
+    <circle cx="1216" cy="133" r="7" fill="#F97316"/>
+    <text x="1234" y="140" fill="#FFEDD5" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="18">状态 / 持续构建中</text>
   </g>
 
   <g opacity="0.98">
-    <text x="154" y="220" fill="#67E8F9" font-family="Consolas, 'Courier New', monospace" font-size="26" letter-spacing="5">PUREDEVGO</text>
-    <text x="150" y="314" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="106" font-weight="700">MAKE IT</text>
-    <text x="150" y="412" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="106" font-weight="700">LOOK ALIVE</text>
-    <text x="154" y="470" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="28">frontend / backend / automation / ai-native workflows</text>
+    <text x="154" y="204" fill="#67E8F9" font-family="Consolas, 'Courier New', monospace" font-size="24" letter-spacing="4">PUREDEVGO</text>
+    <text x="150" y="306" fill="#F8FAFC" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="96" font-weight="700">把灵感做成产品</text>
+    <text x="150" y="404" fill="#F8FAFC" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="96" font-weight="700">把代码做出锋芒</text>
+    <text x="154" y="468" fill="#94A3B8" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="28">前端 / 后端 / 自动化 / AI 工作流</text>
   </g>
 
   <g filter="url(#blurMid)">
@@ -91,15 +91,15 @@
 
   <g opacity="0.94">
     <rect x="980" y="210" width="386" height="214" rx="20" fill="#09121F" stroke="#1F3B4D"/>
-    <text x="1012" y="252" fill="#67E8F9" font-family="Consolas, 'Courier New', monospace" font-size="22">/ telemetry</text>
-    <text x="1012" y="296" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24">role............. full-stack engineer</text>
-    <text x="1012" y="332" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24">focus............ product + systems</text>
-    <text x="1012" y="368" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24">style............ clean, fast, vivid</text>
-    <text x="1012" y="404" fill="#F97316" font-family="Segoe UI, Arial, sans-serif" font-size="24">power............ high-agency shipping</text>
+    <text x="1012" y="252" fill="#67E8F9" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="22">/ 运行参数</text>
+    <text x="1012" y="296" fill="#E2E8F0" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="24">身份............. 全栈开发者</text>
+    <text x="1012" y="332" fill="#E2E8F0" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="24">方向............. 产品 + 系统</text>
+    <text x="1012" y="368" fill="#E2E8F0" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="24">风格............. 干净、快速、有张力</text>
+    <text x="1012" y="404" fill="#F97316" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="24">状态............. 高执行力持续输出</text>
   </g>
 
   <g opacity="0.68">
     <text x="150" y="528" fill="#475569" font-family="Consolas, 'Courier New', monospace" font-size="16">01</text>
-    <text x="1386" y="528" fill="#475569" font-family="Consolas, 'Courier New', monospace" font-size="16">PUREDEVGO.EXE</text>
+    <text x="1332" y="528" fill="#475569" font-family="Consolas, 'Courier New', monospace" font-size="16">PUREDEVGO.CN.MODE</text>
   </g>
 </svg>

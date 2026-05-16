@@ -1,129 +1,96 @@
-# <img src="./assets/hero.svg" alt="PureDevGo GitHub 个人主页横幅" width="100%" />
-
 <div align="center">
 
-## PureDevGo
+# Hi there, I'm [你的名字/昵称] 👋
 
-**把复杂问题做简单，把想法真正做成产品。**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=%5B%E5%BD%93%E5%89%8D%E8%BA%AB%E4%BB%BD%5D;Focus+on+%5B%E6%A0%B8%E5%BF%83%E4%B8%93%E6%B3%A8%E9%A2%86%E5%9F%9F%5D;Build+clean+systems+and+useful+products" alt="Typing SVG" />
 
-[![访问量](https://komarev.com/ghpvc/?username=PureDevGo&style=for-the-badge&color=0f172a&label=%E8%AE%BF%E9%97%AE%E9%87%8F)](https://github.com/PureDevGo)
-[![关注者](https://img.shields.io/github/followers/PureDevGo?style=for-the-badge&color=22d3ee&labelColor=0b1220&label=%E5%85%B3%E6%B3%A8%E8%80%85)](https://github.com/PureDevGo?tab=followers)
-[![仓库星标](https://img.shields.io/github/stars/PureDevGo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f97316&labelColor=0b1220&label=%E6%98%9F%E6%A0%87)](https://github.com/PureDevGo?tab=repositories)
+<p>
+  <strong>“Stay hungry, stay foolish, stay shipping.”</strong>
+</p>
 
-`全栈开发` `产品工程` `自动化` `AI 工作流`
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=1f6feb" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7c3aed" alt="Stars" />
+</p>
+
+<p>
+  <code>[当前身份]</code> · <code>[核心专注领域]</code> · <code>YOUR_GITHUB_USERNAME</code>
+</p>
 
 </div>
 
 ---
 
-## 关于我
+## About Me
 
-我是一个偏产品感的全栈开发者，喜欢把模糊的想法拆清楚、做出来、再打磨到顺手为止。
-
-我在意的不只是“能不能跑”，也在意：
-- 界面有没有气质
-- 交互是不是顺手
-- 系统是否清晰可维护
-- 一个功能上线之后，用户到底会不会真的想继续用
+- 🔭 当前身份：`[当前身份]`
+- 🎯 核心专注：`[核心专注领域]`
+- 🌱 正在学习：`[正在学习]`
+- 🧠 技术方向：把复杂问题拆清楚，把系统做稳定，把产品打磨到真正可用
+- 🤝 开放合作：开源项目、效率工具、全栈产品、工程化实践
+- 📫 联系方式：`[联系方式占位，如邮箱或博客]`
 
 ---
 
-## 我现在在做
+## Tech Stack
 
-<table>
+### 前端 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 后端 Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### 数据库 Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+### 工具 / DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux" />
+</p>
+
+---
+
+## 精选项目 Featured Projects
+
+| 项目 | 简介 | 技术标签 |
+| --- | --- | --- |
+| `[项目 A]` | 这里写一句能体现项目价值的简介，例如：面向高并发场景的后端服务或完整产品系统。 | `Java` `Spring Boot` `MySQL` |
+| `[项目 B]` | 这里写一句能体现项目亮点的简介，例如：聚焦效率提升的 CLI 或自动化工具。 | `Go` `Docker` `Automation` |
+| `[项目 C]` | 这里写一句能体现探索方向的简介，例如：融合前后端与 AI 工作流的实验项目。 | `Vue3` `Python` `AI` |
+
+---
+
+## GitHub Stats
+
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-
-### 正在推进
-
-- 做更有完成度的 Web 产品和后台系统
-- 研究 AI 工作流、自动化工具和效率型应用
-- 持续优化前端体验、工程结构和交付速度
-
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
     </td>
-    <td width="50%" valign="top">
-
-### 我擅长的方向
-
-- 从 0 到 1 搭建产品原型与正式版本
-- 把前端、后端、数据流和部署串起来
-- 把复杂需求整理成可执行、可维护的系统
-
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
----
-
-## 技术栈
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,python,tailwind,postgres,docker,redis,git&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
 
-```txt
-前端：React / Next.js / TypeScript / Tailwind CSS
-后端：Node.js / Go / Python / PostgreSQL
-工程：Docker / Git / 自动化脚本 / 工作流设计
-```
-
----
-
-## 我做事的方式
-
-```txt
-1. 先把问题拆明白
-2. 再把原型做出来
-3. 然后把体验打磨好
-4. 最后把结构整理到能长期维护
-```
-
-> 我喜欢有节奏感的界面，也喜欢凌晨两点还看得懂的代码。
-
----
-
-## 精选项目
-
-| 项目 | 说明 | 关键词 |
-| --- | --- | --- |
-| `你的主力项目 A` | 最能代表你能力边界的产品、平台或 SaaS | `产品能力` `全栈` |
-| `你的效率工具 B` | 真正帮你或别人节省时间的 CLI / 自动化工具 | `工具化` `自动化` |
-| `你的实验项目 C` | AI、数据、工作流或新技术探索项目 | `探索` `AI` |
-
-```txt
-建议只放 3 个项目。
-不要为了“显得多”而塞满，主页更像作品集，不像仓库目录。
-```
-
----
-
-## GitHub 情报
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PureDevGo&show_icons=true&theme=transparent&hide_border=true&title_color=f8fafc&text_color=cbd5e1&icon_color=22d3ee&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureDevGo&layout=compact&theme=transparent&hide_border=true&title_color=f8fafc&text_color=cbd5e1" />
-</div>
-
-<div align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=PureDevGo&bg_color=0b1220&color=f8fafc&line=22d3ee&point=f97316&area=true&hide_border=true" />
-</div>
-
----
-
-## 联系我
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PureDevGo)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/YOUR_ID)
-[![邮箱](https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-
-</div>
-
----
-
-## 一句话
-
-```txt
-写能落地的代码，做有判断力的产品，保持一点锋芒，也保持长期主义。
-```

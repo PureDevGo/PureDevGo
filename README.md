@@ -2,7 +2,7 @@
 
 # Hi there, I'm PureDevGo 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8CJava;Focus+on+%5B%E6%A0%B8%E5%BF%83%E4%B8%93%E6%B3%A8%E9%A2%86%E5%9F%9F%5D;Build+clean+systems+and+useful+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8CJava;Focus+on+%E5%85%A8%E6%A0%88%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E3%80%81%E5%90%8E%E7%AB%AF%E6%9E%B6%E6%9E%84%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E7%A8%8B;Build+clean+systems+and+useful+products" alt="Typing SVG" />
 
 <p>
   <strong>“Stay hungry, stay foolish, stay shipping.”</strong>
@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <code>全栈工程师，Java</code> · <code>[核心专注领域]</code> · <code>YOUR_GITHUB_USERNAME</code>
+  <code>全栈工程师，Java</code> · <code>全栈产品开发、后端架构与自动化工程</code> · <code>YOUR_GITHUB_USERNAME</code>
 </p>
 
 </div>
@@ -25,8 +25,8 @@
 ## About Me
 
 - 🔭 当前身份：`全栈工程师，Java`
-- 🎯 核心专注：`[核心专注领域]`
-- 🌱 正在学习：`[正在学习]`
+- 🎯 核心专注：`全栈产品开发、后端架构与自动化工程`
+- 🌱 正在学习：`AI Agent 编程`
 - 🧠 技术方向：把复杂问题拆清楚，把系统做稳定，把产品打磨到真正可用
 - 🤝 开放合作：开源项目、效率工具、全栈产品、工程化实践
 - 📫 联系方式：`[联系方式占位，如邮箱或博客]`

@@ -5,13 +5,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8CJava;Focus+on+%E5%85%A8%E6%A0%88%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E3%80%81%E5%90%8E%E7%AB%AF%E6%9E%B6%E6%9E%84%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E7%A8%8B;Build+clean+systems+and+useful+products" alt="Typing SVG" />
 
 <p>
-  <strong>“Stay hungry, stay foolish, stay shipping.”</strong>
+  <strong>“保持热爱，持续精进，把想法真正做成作品。”</strong>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=1f6feb" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7c3aed" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6&label=%E8%AE%BF%E9%97%AE%E9%87%8F" alt="访问量" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=1f6feb&label=%E5%85%B3%E6%B3%A8%E8%80%85" alt="关注者" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7c3aed&label=%E6%98%9F%E6%A0%87" alt="星标" />
 </p>
 
 <p>
@@ -86,7 +86,7 @@
 
 ---
 
-## GitHub Stats
+## GitHub 数据看板
 
 <table align="center">
   <tr>
@@ -100,5 +100,5 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&area=true" width="95%" alt="贡献活跃图" />
 </div>

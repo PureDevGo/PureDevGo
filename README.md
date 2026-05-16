@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm [你的名字/昵称] 👋
+# Hi there, I'm PureDevGo 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=%5B%E5%BD%93%E5%89%8D%E8%BA%AB%E4%BB%BD%5D;Focus+on+%5B%E6%A0%B8%E5%BF%83%E4%B8%93%E6%B3%A8%E9%A2%86%E5%9F%9F%5D;Build+clean+systems+and+useful+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8CJava;Focus+on+%5B%E6%A0%B8%E5%BF%83%E4%B8%93%E6%B3%A8%E9%A2%86%E5%9F%9F%5D;Build+clean+systems+and+useful+products" alt="Typing SVG" />
 
 <p>
   <strong>“Stay hungry, stay foolish, stay shipping.”</strong>
@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <code>[当前身份]</code> · <code>[核心专注领域]</code> · <code>YOUR_GITHUB_USERNAME</code>
+  <code>全栈工程师，Java</code> · <code>[核心专注领域]</code> · <code>YOUR_GITHUB_USERNAME</code>
 </p>
 
 </div>
@@ -24,7 +24,7 @@
 
 ## About Me
 
-- 🔭 当前身份：`[当前身份]`
+- 🔭 当前身份：`全栈工程师，Java`
 - 🎯 核心专注：`[核心专注领域]`
 - 🌱 正在学习：`[正在学习]`
 - 🧠 技术方向：把复杂问题拆清楚，把系统做稳定，把产品打磨到真正可用
@@ -93,4 +93,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
-

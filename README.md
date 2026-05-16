@@ -9,9 +9,9 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=PureDevGo&style=for-the-badge&color=0e75b6&label=%E8%AE%BF%E9%97%AE%E9%87%8F" alt="访问量" />
-  <img src="https://img.shields.io/github/followers/PureDevGo?style=for-the-badge&color=1f6feb&label=%E5%85%B3%E6%B3%A8%E8%80%85" alt="关注者" />
-  <img src="https://img.shields.io/github/stars/PureDevGo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7c3aed&label=%E6%98%9F%E6%A0%87" alt="星标" />
+  <img src="https://img.shields.io/badge/%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88-Java-111827?style=for-the-badge&labelColor=0f172a&color=2563eb" alt="全栈工程师 Java" />
+  <img src="https://img.shields.io/badge/%E4%B8%93%E6%B3%A8-%E5%85%A8%E6%A0%88%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91-111827?style=for-the-badge&labelColor=0f172a&color=0f766e" alt="专注 全栈产品开发" />
+  <img src="https://img.shields.io/badge/AI-Agent%20Programming-111827?style=for-the-badge&labelColor=0f172a&color=7c3aed" alt="AI Agent Programming" />
 </p>
 
 <p>

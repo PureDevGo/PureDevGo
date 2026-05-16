@@ -9,13 +9,13 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6&label=%E8%AE%BF%E9%97%AE%E9%87%8F" alt="访问量" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=1f6feb&label=%E5%85%B3%E6%B3%A8%E8%80%85" alt="关注者" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7c3aed&label=%E6%98%9F%E6%A0%87" alt="星标" />
+  <img src="https://komarev.com/ghpvc/?username=PureDevGo&style=for-the-badge&color=0e75b6&label=%E8%AE%BF%E9%97%AE%E9%87%8F" alt="访问量" />
+  <img src="https://img.shields.io/github/followers/PureDevGo?style=for-the-badge&color=1f6feb&label=%E5%85%B3%E6%B3%A8%E8%80%85" alt="关注者" />
+  <img src="https://img.shields.io/github/stars/PureDevGo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7c3aed&label=%E6%98%9F%E6%A0%87" alt="星标" />
 </p>
 
 <p>
-  <code>全栈工程师，Java</code> · <code>全栈产品开发、后端架构与自动化工程</code> · <code>YOUR_GITHUB_USERNAME</code>
+  <code>全栈工程师，Java</code> · <code>全栈产品开发、后端架构与自动化工程</code> · <code>PureDevGo</code>
 </p>
 
 </div>
@@ -91,14 +91,14 @@
 <table align="center">
   <tr>
     <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=PureDevGo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureDevGo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&area=true" width="95%" alt="贡献活跃图" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PureDevGo&theme=github-dark&hide_border=true&area=true" width="95%" alt="贡献活跃图" />
 </div>
